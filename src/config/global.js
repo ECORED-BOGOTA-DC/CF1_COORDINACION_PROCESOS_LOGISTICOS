@@ -512,10 +512,10 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Marcela González',
+          nombre: 'Yuly Andrea Rey Quiñonez',
           cargo: 'Diseño web',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          centro: 'Centro Industrial del Diseño y la Manufactura',
+          regional: 'Regional Santander',
         },
         {
           nombre: 'Diego Fernando Velasco Güiza',
