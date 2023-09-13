@@ -304,7 +304,7 @@
           .bloque-texto-d__autor
             .h5.text-end.mb-0 Según Granillo, Hernández y Santana (2013)
 
-    p El objetivo de CPFR es mejorar la integración de la cadena de suministro convirtiéndola de un aislado, ineficaz e ineficiente sistema “push” o de forma coordinada, a un sistema “pull” basado en la demanda del cliente final.
+    p El objetivo de CPFR es mejorar la integración de la cadena de suministro convirtiéndola de un aislado, ineficaz e ineficiente sistema “#[em push]” o de forma coordinada, a un sistema “#[em pull]” basado en la demanda del cliente final.
     p La CPFR es una práctica de negocios que establece una planeación, reabastecimiento y pronósticos compartidos a través de toda la cadena de suministro fundamentado en una visibilidad total de la información de entrada en toda la cadena. Crea necesidad de sistemas integrados de comunicación con el fin de identificar patrones de conducta del cliente que contribuya al mejoramiento del pronóstico de ventas, creación de programas de gestión de inventarios y estándares de empaque; esta dinámica proporciona a la empresa una plataforma clara para llevar a cabo el reabastecimiento, de una manera planeada y en consenso.
     h5.text-center.mb-0 Proceso CPFR
 
