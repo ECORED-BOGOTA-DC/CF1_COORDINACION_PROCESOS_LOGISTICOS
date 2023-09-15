@@ -2,12 +2,12 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 4
       h1 Evaluación de la cadena de suministros
     
-    p Los temas de logística y cadena de suministros son una cuestión de medición y evaluación constante, no es lógico trabajar sin medir y por eso se hacen varias menciones y la forma de hacerla junto con su objetivo real.
+    p(data-aos="fade-right") Los temas de logística y cadena de suministros son una cuestión de medición y evaluación constante, no es lógico trabajar sin medir y por eso se hacen varias menciones y la forma de hacerla junto con su objetivo real.
     
     separador
     #t_4_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -25,22 +25,22 @@
       .cajon.color-acento-contenido.p-5
         p.mb-0 Es claro que el principal objetivo de la gestión de la cadena de abastecimiento es maximizar la relación de valor fundamentalmente, puede describirse como la proporción que se genera entre los beneficios lograrlos y los recursos utilizados para obtenerlos.
     
-    p.mb-5 El valor agregado es todo lo que el cliente intuye de la organización y en algunos casos se puede conocer como propuesta de valor que está definida por la calidad, el tiempo o cualquiera de los diferentes elementos que se muestran en esta gráfica:
+    p.mb-5(data-aos="fade-right") El valor agregado es todo lo que el cliente intuye de la organización y en algunos casos se puede conocer como propuesta de valor que está definida por la calidad, el tiempo o cualquiera de los diferentes elementos que se muestran en esta gráfica:
     
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-6.mx-auto
         img(src='@/assets/curso/tema4/f1.svg', alt='Imagen en forma de círculo que contiene los diversos elementos que componen el valor agregado y que son los siguientes:<br>Precio<br>Novedad<br>Calidad<br>Conveniencia<br>Marca/Status<br>Desempeño<br>Reducción de riesgo<br>Reducción de costes<br>Diseño<br>Customización')
 
-    p Como toda relación, el valor no es resultado de una construcción unilateral, sino que se genera a partir de la interacción de sus participantes. En la medida que los clientes superan sus expectativas frente a la disponibilidad y el suministro de su proveedor, no solo se aferran a la marca y a la empresa repitiendo la adquisición de sus productos y servicios, sino que se convierten en referente para otros grupos de influencia y construyen la base fidelizada de clientes que proveen las utilidades a largo plazo de la empresa, los cuales, a su vez, traducen la relación de valor en la satisfacción con las cualidades –racionales y aspiracionales– del servicio obtenido, frente a los costos incurridos que en buena parte se representan en el precio de adquisición de los productos. Lo anterior es lo que se denomina valor agregado percibido por el cliente.
-    p Los usuarios, consumidores y compradores finales son los últimos y principales destinatarios de esa superación de expectativas (formadas a partir de las experiencias de compra, de sus necesidades en comparación con la oferta de la competencia, o de los comentarios y opiniones externas), pero desde luego la ecuación del valor se propaga a través de los canales de toda la cadena de suministro, para cada momento decisivo en la relación cliente-proveedor.
-    p La globalización de los negocios y la necesidad de llegar con más rapidez y eficiencia a los consumidores son situaciones que conducen a las empresas a buscar diversas estrategias para responder a las complejidades cada vez mayores de los mercados.
-    p Retomando el concepto de la Revista de Logística Legis (2016) se puede decir que la evolución del concepto de logística al de Supply Chain Management (gerencia de la cadena de abastecimiento) y la necesidad de sobrevivir en un mercado más competido, se convierten en nuevos retos para quienes se desempeñan en el campo de la logística. La logística está para crear valor a los clientes, proveedores y accionistas de la compañía. El valor en logística está expresado en términos de tiempo y lugar. Los productos y servicios no tienen valor, a menos que estén en posesión de los clientes cuándo (tiempo) y dónde (lugar) ellos deseen consumirlos.
+    p(data-aos="fade-right") Como toda relación, el valor no es resultado de una construcción unilateral, sino que se genera a partir de la interacción de sus participantes. En la medida que los clientes superan sus expectativas frente a la disponibilidad y el suministro de su proveedor, no solo se aferran a la marca y a la empresa repitiendo la adquisición de sus productos y servicios, sino que se convierten en referente para otros grupos de influencia y construyen la base fidelizada de clientes que proveen las utilidades a largo plazo de la empresa, los cuales, a su vez, traducen la relación de valor en la satisfacción con las cualidades –racionales y aspiracionales– del servicio obtenido, frente a los costos incurridos que en buena parte se representan en el precio de adquisición de los productos. Lo anterior es lo que se denomina valor agregado percibido por el cliente.
+    p(data-aos="fade-right") Los usuarios, consumidores y compradores finales son los últimos y principales destinatarios de esa superación de expectativas (formadas a partir de las experiencias de compra, de sus necesidades en comparación con la oferta de la competencia, o de los comentarios y opiniones externas), pero desde luego la ecuación del valor se propaga a través de los canales de toda la cadena de suministro, para cada momento decisivo en la relación cliente-proveedor.
+    p(data-aos="fade-right") La globalización de los negocios y la necesidad de llegar con más rapidez y eficiencia a los consumidores son situaciones que conducen a las empresas a buscar diversas estrategias para responder a las complejidades cada vez mayores de los mercados.
+    p(data-aos="fade-right") Retomando el concepto de la Revista de Logística Legis (2016) se puede decir que la evolución del concepto de logística al de Supply Chain Management (gerencia de la cadena de abastecimiento) y la necesidad de sobrevivir en un mercado más competido, se convierten en nuevos retos para quienes se desempeñan en el campo de la logística. La logística está para crear valor a los clientes, proveedores y accionistas de la compañía. El valor en logística está expresado en términos de tiempo y lugar. Los productos y servicios no tienen valor, a menos que estén en posesión de los clientes cuándo (tiempo) y dónde (lugar) ellos deseen consumirlos.
     
     separador
     #t_4_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 4.3.	Mejoramiento de procesos
     
-    p.mb-5 En este contexto se debe ser enfático como lo hace Mora (2008, s.p.) “una de las características de las organizaciones modernas es que han incorporado a sus procesos, elementos de gestión que les permiten evaluar sus logros o señalar falencias para aplicar los correctivos necesarios”. Estos elementos conocidos como indicadores se deben establecer desde el mismo momento en que se elabora el plan de desarrollo estratégico y se aplican a este y al plan operativo, en espacios reales y en evaluación constante que busca un mejoramiento clave.
+    p.mb-5(data-aos="fade-right") En este contexto se debe ser enfático como lo hace Mora (2008, s.p.) “una de las características de las organizaciones modernas es que han incorporado a sus procesos, elementos de gestión que les permiten evaluar sus logros o señalar falencias para aplicar los correctivos necesarios”. Estos elementos conocidos como indicadores se deben establecer desde el mismo momento en que se elabora el plan de desarrollo estratégico y se aplican a este y al plan operativo, en espacios reales y en evaluación constante que busca un mejoramiento clave.
     
     .row.align-items-center.mb-5
       .col-lg-6(data-aos="fade-right")
@@ -59,8 +59,8 @@
             .h5.text-end.mb-0 P. Drucker
 
     hr.borde-cab
-    p El término “indicador”, en el lenguaje común, se refiere a datos esencialmente cuantitativos, que permiten dar cuenta de cómo se encuentran las cosas en relación con algún aspecto de la realidad que nos interesa conocer. Los Indicadores pueden ser: medidas, números, hechos, opiniones o percepciones que señalen condiciones o situaciones específicas. Estos indicadores deberán reflejarse adecuadamente en la naturaleza, peculiaridades y nexos de los procesos que se originan en la actividad económico-productiva, sus resultados, gastos, entre otros, y caracterizarse por ser estables y comprensibles, por tanto, no es suficiente con uno solo de ellos para medir la gestión de la empresa sino que se impone la necesidad de considerar los sistemas de indicadores, es decir, un conjunto interrelacionado de ellos que abarque la mayor cantidad posible de magnitudes a medir.
-    p.mb-5 Características de los indicadores:
+    p(data-aos="fade-right") El término “indicador”, en el lenguaje común, se refiere a datos esencialmente cuantitativos, que permiten dar cuenta de cómo se encuentran las cosas en relación con algún aspecto de la realidad que nos interesa conocer. Los Indicadores pueden ser: medidas, números, hechos, opiniones o percepciones que señalen condiciones o situaciones específicas. Estos indicadores deberán reflejarse adecuadamente en la naturaleza, peculiaridades y nexos de los procesos que se originan en la actividad económico-productiva, sus resultados, gastos, entre otros, y caracterizarse por ser estables y comprensibles, por tanto, no es suficiente con uno solo de ellos para medir la gestión de la empresa sino que se impone la necesidad de considerar los sistemas de indicadores, es decir, un conjunto interrelacionado de ellos que abarque la mayor cantidad posible de magnitudes a medir.
+    p.mb-5(data-aos="fade-right") Características de los indicadores:
     
     .row.align-items-center.mb-5
       .col-lg-6
@@ -86,7 +86,7 @@
             .p-4
               .h4.mb-0 Son instrumentos valiosos para determinar cómo se pueden alcanzar mejores resultados en proyectos de desarrollo.
 
-    p.mb-5 Aparte de sus características fundamentales, se tienen tres aspectos adicionales a tener en cuenta: sus indicadores, saber para qué se requieren y de qué sirve cada uno.
+    p.mb-5(data-aos="fade-right") Aparte de sus características fundamentales, se tienen tres aspectos adicionales a tener en cuenta: sus indicadores, saber para qué se requieren y de qué sirve cada uno.
     
     AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta fondo-purpura-medio" data-aos="zoom-in")
       .row(titulo="Indicadores logísticos")
@@ -143,9 +143,9 @@
     
     separador
     #t_4_4.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 4.4.	 Medición del desempeño logística de aprovisionamiento
+      h2 4.4. Medición del desempeño logística de aprovisionamiento
 
-    p.mb-5 Para el caso de la logística, solo se deben desarrollar indicadores para aquellas actividades o procesos relevantes al objetivo logístico de la empresa y, para lo anterior, se deben tener en cuenta los siguientes pasos:
+    p.mb-5(data-aos="fade-right") Para el caso de la logística, solo se deben desarrollar indicadores para aquellas actividades o procesos relevantes al objetivo logístico de la empresa y, para lo anterior, se deben tener en cuenta los siguientes pasos:
     
     .row.align-items-start.lista-grande.mb-5
       .fc-pmedio
@@ -196,61 +196,61 @@
 
     .h4.mb-5 <i class="fas fa-crosshairs fa-spin" style="color: #57DBD8; margin-left: 8px; font-size: larger" data-aos="fade-right"></i> Indicadores de compras y abastecimiento
     
-    p.mb-5 Estos indicadores están diseñados en función de evaluar y mejorar continuamente la gestión de compras y abastecimiento como factor clave en el éxito de la gestión de la cadena de suministro de la compañía, donde se pueden controlar aspectos del proceso de compras como de las negociaciones y alianzas estratégicas hechas con proveedores.
+    p.mb-5(data-aos="fade-right") Estos indicadores están diseñados en función de evaluar y mejorar continuamente la gestión de compras y abastecimiento como factor clave en el éxito de la gestión de la cadena de suministro de la compañía, donde se pueden controlar aspectos del proceso de compras como de las negociaciones y alianzas estratégicas hechas con proveedores.
     
     .titulo-sexto.color-acento-botones(data-aos="fade-right")
       h5 Tabla 3.
       span Indicador de compras y abastecimiento
-    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center.mb-5(data-aos="zoom-in" alt="Se muestran la comparación de los beneficios logísticos que se dan entre empresa y clienteel indicador el calculo y el objetivo de los indicadores de compras.")
+    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center.mb-5( alt="Se muestran la comparación de los beneficios logísticos que se dan entre empresa y clienteel indicador el calculo y el objetivo de los indicadores de compras.")
       table
         caption Nota. <span style="font-weight: 400">Adaptada de Mora (2008)</span>
         thead
-          tr
+          tr(data-aos="fade-right")
             th Indicador
             th Cálculo
             th Objetivo
         tbody
-          tr
+          tr(data-aos="fade-right")
             td Certificación de proveedores
             td Proveedores/Total proveedores
             td Controlar la calidad de los proveedores y el nivel de integración con los mismos.
-          tr
+          tr(data-aos="fade-right")
             td Calidad de los pedidos generados
             td Pedidos generados sin problema/Total pedido generados * 100
             td Controlar la calidad de los pedidos generados por el área de compras.
-          tr
+          tr(data-aos="fade-right")
             td Volumen de compra
             td Valor de compra/Total de las ventas
             td Controla la evolución del volumen de compra en relación con el volumen de venta.
-          tr
+          tr(data-aos="fade-right")
             td Entregas recibidas
             td Pedidos rechazados/Total órdenes de compra recibidas *100
             td Controlar la calidad de los productos/materiales recibidos, y la puntualidad de las entregas de los proveedores de mercancía.
 
     .h4.mb-5 <i class="fas fa-crosshairs fa-spin" style="color: #57DBD8; margin-left: 8px; font-size: larger" data-aos="fade-right"></i> Indicadores de almacenamiento y bodegaje
-    p.mb-5 La gestión de almacenamiento debe estar totalmente alineada con la gestión de aprovisionamiento y distribución, por lo tanto, el control sobre los procesos generados al interior del centro de distribución o almacén es determinante en cuanto al impacto de los costos de operación sobre la operación logística.
+    p.mb-5(data-aos="fade-right") La gestión de almacenamiento debe estar totalmente alineada con la gestión de aprovisionamiento y distribución, por lo tanto, el control sobre los procesos generados al interior del centro de distribución o almacén es determinante en cuanto al impacto de los costos de operación sobre la operación logística.
     
     .titulo-sexto.color-acento-botones(data-aos="fade-right")
       h5 Tabla 4.
       span Indicador de almacenamiento y bodegaje
-    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center.mb-5(data-aos="zoom-in" alt="Se muestran los indicadores, calculos y objetivos de los indicadores de almacenamiento")
+    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center.mb-5(alt="Se muestran los indicadores, calculos y objetivos de los indicadores de almacenamiento")
       table
         caption Nota. <span style="font-weight: 400">Adaptada de Mora (2008)</span>
         thead
-          tr
+          tr(data-aos="fade-right")
             th Indicador
             th Cálculo
             th Objetivo
         tbody
-          tr
+          tr(data-aos="fade-right")
             td Costo de unidad almacenada
             td Costo del almacenamiento/Número de unidades almacenadas
             td Controlar el valor unitario del costo por almacenamiento propio o contratado.
-          tr 
+          tr(data-aos="fade-right") 
             td Costo de unidad despachada
             td Costo de operación bodega/Total unidades despachadas
             td Controlar los costos unitarios por manejo de las unidades de carga de la bodega.
-          tr
+          tr(data-aos="fade-right")
             td Nivel de cumplimento en despacho
             td Número de despachos cumplidos a tiempo/Número total de despachos requeridos
             td Controlar la eficacia de los despachos efectuados por el centro de distribución.
@@ -259,37 +259,37 @@
     #t_4_5.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 4.5. Medición del desempeño logística interna
 
-    p.mb-5 Los movimientos de materiales y productos a lo largo de la cadena de suministro son un aspecto clave en la gestión logística, ya que de ello depende el reabastecimiento ó logística de la empresa.
+    p.mb-5(data-aos="fade-right") Los movimientos de materiales y productos a lo largo de la cadena de suministro son un aspecto clave en la gestión logística, ya que de ello depende el reabastecimiento ó logística de la empresa.
     
     .titulo-sexto.color-acento-botones(data-aos="fade-right")
       h5 Tabla 5.
       span Indicadores de producción e inventario
-    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center(data-aos="zoom-in" alt="Se muestran los indicadores, calculos y objetivos de los indicadores de producción.")
+    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center(alt="Se muestran los indicadores, calculos y objetivos de los indicadores de producción.")
       table
         caption Nota. <span style="font-weight: 400">Adaptada de Mora (2008)</span>
         thead
-          tr
+          tr(data-aos="fade-right")
             th Indicador
             th Cálculo
             th Objetivo
         tbody
-          tr
+          tr(data-aos="fade-right")
             td Capacidad de producción utilizada
             td Capacidad utilizada/Capacidad máxima del recurso
             td Controlar la utilización efectiva de las instalaciones (productivas, de almacenaje o transporte) de la compañía.
-          tr
+          tr(data-aos="fade-right")
             td Rendimiento de máquina
             td Número de unidades productivas/Capacidad máxima del recurso *100
             td Controlar la productividad de una máquina de manufactura con respecto a la capacidad máxima de utilización posible.
-          tr
+          tr(data-aos="fade-right")
             td Rotación de mercancía
             td Ventas acumuladas/Inventario promedio
             td Controlar la cantidad de los productos/materiales despachados desde el centro de distribución.
-          tr
+          tr(data-aos="fade-right")
             td Duración del inventario
             td Inventario final/Ventas promedio *30 días
             td Controlar los días de inventario disponible de la mercancía almacenada en el centro de distribución.
-          tr
+          tr(data-aos="fade-right")
             td Vejez del inventario
             td Unidades dañadas + obsoletas + vendidas/Unidades disponibles en el inventario
             td Controlar el nivel de las mercancías no disponibles para despacho por obsolescencias, mal estado y otros.
@@ -298,29 +298,29 @@
     #t_4_6.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 4.6. Medición del desempeño logística de salida
     
-    p.mb-5 La distribución es una función logística vital para el desempeño exitoso de la compañía, por lo tanto, es fundamental poder controlar los costos y productividad asociados a la gestión de la misma, particularmente de la gestión del transporte la cual es la actividad que más consume recursos y esfuerzos dentro de la gestión logística por su fuerte impacto en inversiones de activos fijos y respuesta al cliente final.
+    p.mb-5(data-aos="fade-right") La distribución es una función logística vital para el desempeño exitoso de la compañía, por lo tanto, es fundamental poder controlar los costos y productividad asociados a la gestión de la misma, particularmente de la gestión del transporte la cual es la actividad que más consume recursos y esfuerzos dentro de la gestión logística por su fuerte impacto en inversiones de activos fijos y respuesta al cliente final.
     
     .titulo-sexto.color-acento-botones(data-aos="fade-right")
       h5 Tabla 6.
       span Indicador de transporte y distribución
-    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center(data-aos="zoom-in" alt="Se muestran los indicadores, calculos y objetivos de los indicadores de transporte y distribución.")
+    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center(alt="Se muestran los indicadores, calculos y objetivos de los indicadores de transporte y distribución.")
       table
         caption Nota. <span style="font-weight: 400">Adaptada de Mora (2008)</span>
         thead
-          tr
+          tr(data-aos="fade-right")
             th Indicador
             th Cálculo
             th Objetivo
         tbody
-          tr
+          tr(data-aos="fade-right")
             td Costo de transporte Vs. venta
             td Costo del transporte/Valor ventas totales *100
             td Controlar el costo del transporte respecto a las ventas de la empresa.
-          tr
+          tr(data-aos="fade-right")
             td Costo operativo por conductor
             td Costo total transporte/Número de conductores
             td Controlar la contribución de cada conductor dentro de los gastos totales de transporte.
-          tr
+          tr(data-aos="fade-right")
             td Comparativo costo de transporte
             td Costo de transporte propio por unidad/Costo de contratar transporte por unidad
             td Controlar los gastos propios de unidades transportadas con los que ofrece el mercado de terceros.
@@ -329,7 +329,7 @@
     #t_4_7.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 4.7.	Sistemas de recolección de información
 
-    p Los sistemas de recolección de la información son variados y, en la actualidad, con las tecnologías de la información y comunicación son casi innumerables, a continuación se hace una mención de los sistemas más representativos que se deben considerar en una empresa; se hace la salvedad, que los sistemas relacionados a continuación no son los únicos y que cada empresa debe buscar el que mejor se ajuste a sus necesidades puntuales, pues son muchas las empresas que están trabajando en el desarrollo de estos sistemas y la facilidad de adquisición es alta.
+    p(data-aos="fade-right") Los sistemas de recolección de la información son variados y, en la actualidad, con las tecnologías de la información y comunicación son casi innumerables, a continuación se hace una mención de los sistemas más representativos que se deben considerar en una empresa; se hace la salvedad, que los sistemas relacionados a continuación no son los únicos y que cada empresa debe buscar el que mejor se ajuste a sus necesidades puntuales, pues son muchas las empresas que están trabajando en el desarrollo de estos sistemas y la facilidad de adquisición es alta.
     .tarjeta-avatar-b(data-aos="fade-right")
       img(src='@/assets/curso/tema4/f13.svg', alt='Imagen decorativa', style="width:60px; border-bottom:none;")
       .tarjeta.transparent1

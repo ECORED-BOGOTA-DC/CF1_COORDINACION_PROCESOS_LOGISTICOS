@@ -2,21 +2,21 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
       h1 Integración de la cadena de suministros
     
-    p.mb-5 Como se ha revisado hasta el momento, las cadenas de todo tipo están formadas por eslabones que en esta cadena de suministros están enmarcados en todos los subprocesos que van a hacer posible la generación de un flujo adecuado a las necesidades del cliente y de las empresas con la menor cantidad de sobretiempos y costos adicionales posibles con una trazabilidad respetable y para eso es fundamental la normatividad, a continuación se presenta la forma de integrar la cadena de suministros.
+    p.mb-5(data-aos="fade-right") Como se ha revisado hasta el momento, las cadenas de todo tipo están formadas por eslabones que en esta cadena de suministros están enmarcados en todos los subprocesos que van a hacer posible la generación de un flujo adecuado a las necesidades del cliente y de las empresas con la menor cantidad de sobretiempos y costos adicionales posibles con una trazabilidad respetable y para eso es fundamental la normatividad, a continuación se presenta la forma de integrar la cadena de suministros.
     
     separador
     #t_3_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.1.	Normatividad aplicada a los procesos logísticos
 
-    p El sector logístico es cada vez más relevante en la economía actual, por todo ello, es sin duda oportuno profundizar en el estado actual de la infraestructura normativa, en especial, en el marco del comercio a través de Internet, ya que esta cultura de calidad no tiene la misma penetración en todos los sectores económicos. 
-    p Las normas incluyen especificaciones complejas, sobre composición, características técnicas, seguridad, etc. Por ello, para acreditar el cumplimiento de una norma a efectos de garantizar la seguridad de los usuarios, o de homologar un determinado suministro en el ámbito de una relación contractual entre dos partes, surge la necesidad de establecer procedimientos de evaluación de la conformidad de un producto en relación a una norma determinada. 
-    p Las actividades de normalización y evaluación de la conformidad tienen una relevancia esencial en el ámbito de la reglamentación técnica de un país, reglamentación que emana de la obligación de las autoridades públicas de garantizar la salud y el bienestar de los ciudadanos y el ambiente. Es el desarrollo de estas actividades el que permite responder a cuestiones tan fundamentales como: ¿son seguros los electrodomésticos que se comercializan?, o ¿los materiales de construcción soportarán las cargas de los edificios en donde serán utilizados? Y para ello se tienen unas normas y entidades a conocer.
-    p.mb-5 A continuación, se relacionan entidades certificadoras:
+    p(data-aos="fade-right") El sector logístico es cada vez más relevante en la economía actual, por todo ello, es sin duda oportuno profundizar en el estado actual de la infraestructura normativa, en especial, en el marco del comercio a través de Internet, ya que esta cultura de calidad no tiene la misma penetración en todos los sectores económicos. 
+    p(data-aos="fade-right") Las normas incluyen especificaciones complejas, sobre composición, características técnicas, seguridad, etc. Por ello, para acreditar el cumplimiento de una norma a efectos de garantizar la seguridad de los usuarios, o de homologar un determinado suministro en el ámbito de una relación contractual entre dos partes, surge la necesidad de establecer procedimientos de evaluación de la conformidad de un producto en relación a una norma determinada. 
+    p(data-aos="fade-right") Las actividades de normalización y evaluación de la conformidad tienen una relevancia esencial en el ámbito de la reglamentación técnica de un país, reglamentación que emana de la obligación de las autoridades públicas de garantizar la salud y el bienestar de los ciudadanos y el ambiente. Es el desarrollo de estas actividades el que permite responder a cuestiones tan fundamentales como: ¿son seguros los electrodomésticos que se comercializan?, o ¿los materiales de construcción soportarán las cargas de los edificios en donde serán utilizados? Y para ello se tienen unas normas y entidades a conocer.
+    p.mb-5(data-aos="fade-right") A continuación, se relacionan entidades certificadoras:
 
     .row.align-items-start.justify-content-between.mb-4
       .col-lg-4(data-aos="fade-right")
@@ -35,7 +35,7 @@
         h4 Icontec
         p.mb-0 Instituto Colombiano de Normas Técnicas y Certificación
     
-    p Desde luego, no es la ley la que obliga a certificarse, ni tampoco ningún organismo público o privado, o por lo menos para la inmensa mayoría de sectores; sin embargo, demostrar la calidad de los productos a los clientes genera #[strong confianza para el consumidor], puesto que el objetivo esencial de la certificación es proporcionar al consumidor la garantía de que un determinado producto o servicio cumple unas determinadas normas; además de un #[strong servicio de inspección y vigilancia], que garantiza la calidad de los productos adquiridos.
+    p(data-aos="fade-right") Desde luego, no es la ley la que obliga a certificarse, ni tampoco ningún organismo público o privado, o por lo menos para la inmensa mayoría de sectores; sin embargo, demostrar la calidad de los productos a los clientes genera #[strong confianza para el consumidor], puesto que el objetivo esencial de la certificación es proporcionar al consumidor la garantía de que un determinado producto o servicio cumple unas determinadas normas; además de un #[strong servicio de inspección y vigilancia], que garantiza la calidad de los productos adquiridos.
     
     separador
     #t_3_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -46,9 +46,9 @@
         .cajon.color-acento-contenido.p-4
           p.mb-0 Una alianza estratégica es una relación comercial en la que dos o más organizaciones independientes deciden trabajar juntas para lograr objetivos específicos. Las alianzas son estratégicas cuando ofrecen una ventaja competitiva a las partes involucradas.
     
-    p El objetivo de crear alianzas estratégicas con los proveedores es trabajar juntos para mejorar la eficiencia de las operaciones de ambas compañías, con esto se logra eliminar costos de sus sistemas logísticos, incrementar su rentabilidad y mejorar el servicio final al consumidor.
-    p.mb-5 Por lo general, esta clase de alianzas se caracterizan por una confianza mutua, una comunicación abierta, y una situación en la que todas las partes salen ganando.
-    h4.mb-4 Factores Clave de las alianzas estratégicas:
+    p(data-aos="fade-right") El objetivo de crear alianzas estratégicas con los proveedores es trabajar juntos para mejorar la eficiencia de las operaciones de ambas compañías, con esto se logra eliminar costos de sus sistemas logísticos, incrementar su rentabilidad y mejorar el servicio final al consumidor.
+    p.mb-5(data-aos="fade-right") Por lo general, esta clase de alianzas se caracterizan por una confianza mutua, una comunicación abierta, y una situación en la que todas las partes salen ganando.
+    h4.mb-4(data-aos="fade-right") Factores Clave de las alianzas estratégicas:
     
     ul.lista-ul--color
       li(style="margin-bottom: 2px")
@@ -83,13 +83,13 @@
     #t_3_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.3.	Requerimientos de manejo ambiental
 
-    p.mb-5 La condición ambiental ha sido un tema cada vez más relevante en la reflexión global, se han firmado tratados internacionales, y es un tema que se discute de manera periódica. Esto ha permitido que se den los primeros esfuerzos hacia una economía más sustentable; dichos esfuerzos, aunque no han sido completamente logrados, tratan de orientar el cambio en los patrones de pensamiento de los diferentes participantes (gobiernos, empresas y consumidores).
+    p.mb-5(data-aos="fade-right") La condición ambiental ha sido un tema cada vez más relevante en la reflexión global, se han firmado tratados internacionales, y es un tema que se discute de manera periódica. Esto ha permitido que se den los primeros esfuerzos hacia una economía más sustentable; dichos esfuerzos, aunque no han sido completamente logrados, tratan de orientar el cambio en los patrones de pensamiento de los diferentes participantes (gobiernos, empresas y consumidores).
 
     .row.justify-content-center.mb-5  
       .col-lg-4.mx-auto(data-aos="zoom-in")
         img(src='@/assets/curso/tema3/f4.svg', alt='Imagen decorativa')
     
-    p.mb-5 El primer paso hacia una economía más verde es el reconocimiento del impacto que tienen las actividades empresariales, siendo esto simplificado, ya que hoy en día existen metodologías y calculadoras ambientales estandarizadas que permiten tener aproximaciones iniciales. Se tiene un primer acercamiento sobre cuánto y dónde se contamina, por lo que se pueden identificar las áreas críticas y explorar posibles áreas de oportunidad y acciones puntuales. Las empresas también deben tomar una postura y decidir qué tanto están dispuestas a modificar sus actividades y si es que están decididas a incluir al impacto ambiental en su proceso de planeación operativa y estratégica, lo que probablemente impacte en el negocio de la empresa. Cada uno de los siguientes conceptos es imprescindibles para la empresa actual que debe tenerlos en cuenta:
+    p.mb-5(data-aos="fade-right") El primer paso hacia una economía más verde es el reconocimiento del impacto que tienen las actividades empresariales, siendo esto simplificado, ya que hoy en día existen metodologías y calculadoras ambientales estandarizadas que permiten tener aproximaciones iniciales. Se tiene un primer acercamiento sobre cuánto y dónde se contamina, por lo que se pueden identificar las áreas críticas y explorar posibles áreas de oportunidad y acciones puntuales. Las empresas también deben tomar una postura y decidir qué tanto están dispuestas a modificar sus actividades y si es que están decididas a incluir al impacto ambiental en su proceso de planeación operativa y estratégica, lo que probablemente impacte en el negocio de la empresa. Cada uno de los siguientes conceptos es imprescindibles para la empresa actual que debe tenerlos en cuenta:
     
     AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta fondo-casi-blanco" data-aos="zoom-in")
       .row(titulo="Logística verde")
@@ -114,7 +114,7 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/PUOOkuzzSnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .h4.mb-5 <i class="fas fa-crosshairs fa-spin" style="color: #57DBD8; margin-left: 8px; font-size: larger" data-aos="fade-right"></i> Tipos de trazabilidad logística
-    p Acá se presentan dos tipos de trazabilidad logística que se deben considerar indispensable.
+    p(data-aos="fade-right") Acá se presentan dos tipos de trazabilidad logística que se deben considerar indispensable.
     
     .tarjeta-avatar-b(data-aos="fade-right")
       img(src='@/assets/curso/tema3/f7.svg', alt='Imagen decorativa', style="width:60px; border-bottom:none;")
@@ -142,9 +142,9 @@
     #t_3_5.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.5.	Sistemas de gestión de calidad
     
-    p La gestión de calidad, es un conjunto de acciones y herramientas que tienen como objetivo evitar posibles errores o desviaciones en el proceso de producción y en los productos o servicios obtenidos mediante el mismo.
-    p Incorporar la calidad en la gestión logística de la cadena de abastecimientos, incluye a proveedores, clientes y operadores durante el desarrollo de las prácticas colaborativas, es una extensión natural de las mejoras durante los procesos internos de cada organización.
-    p.mb-5 Dentro de los sistemas de calidad, se enmarca la ISO (International Organization for Standardization), que es la Organización Internacional de Normalización, cuya principal actividad es: 
+    p(data-aos="fade-right") La gestión de calidad, es un conjunto de acciones y herramientas que tienen como objetivo evitar posibles errores o desviaciones en el proceso de producción y en los productos o servicios obtenidos mediante el mismo.
+    p(data-aos="fade-right") Incorporar la calidad en la gestión logística de la cadena de abastecimientos, incluye a proveedores, clientes y operadores durante el desarrollo de las prácticas colaborativas, es una extensión natural de las mejoras durante los procesos internos de cada organización.
+    p.mb-5(data-aos="fade-right") Dentro de los sistemas de calidad, se enmarca la ISO (International Organization for Standardization), que es la Organización Internacional de Normalización, cuya principal actividad es: 
     
     .row.justify-content-center.mb-5
       .col-lg-10.mx-auto(data-aos="flip-up")
@@ -156,7 +156,7 @@
           .bloque-texto-d__autor
             .h5.text-end.mb-0 ISO, 2020
     
-    p.mb-5 Las certificaciones ISO acreditan que una empresa cumple la normativa vigente en la elaboración o ejecución de un producto o servicio, dentro de dichas normas, en el marco de la logística se enmarcan:
+    p.mb-5(data-aos="fade-right") Las certificaciones ISO acreditan que una empresa cumple la normativa vigente en la elaboración o ejecución de un producto o servicio, dentro de dichas normas, en el marco de la logística se enmarcan:
 
     AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta fondo-purpura-medio" data-aos="zoom-in")
       .row(titulo="ISO 14000")
