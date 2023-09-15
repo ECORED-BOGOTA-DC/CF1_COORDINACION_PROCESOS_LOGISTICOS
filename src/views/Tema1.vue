@@ -23,7 +23,7 @@
           h5 Figura 1.
           span Diferentes etapas de la cadena de suministro
         figure(data-aos="zoom-in")
-          img.mb-2(src='@/assets/curso/tema1/f2.svg', alt='Imagen decorativa')
+          img.mb-2(src='@/assets/curso/tema1/f2.svg', alt='Imagen que muestra las diferentes etapas de la cadena de suministro, esto es:<br>El flujo de información, el flujo de materiales y productos y posterior e esto viene: el proveedor, la recpeción de materias primas, fabricación, almacenaje, transporte, punto de venta y finalmente el cliente.')
           figcaption Nota. <span style="font-weight: 400">Tomada de Mecalux (2019)</span>
     
     p La cadena de suministro hace referencia al flujo completo que sigue un producto hasta su venta; en cambio, la logística forma parte de la cadena de suministro y se trata de una disciplina centrada en el almacenamiento de productos, en su transporte y su distribución.
@@ -32,7 +32,7 @@
     .titulo-sexto.color-acento-botones(data-aos="fade-right")
       h5 Tabla 1.
       span Diferencias entre la cadena de suministro y la logística
-    .tabla-a.color-acento-botones.mb-5(data-aos="zoom-in")
+    .tabla-a.color-acento-botones.mb-5(data-aos="zoom-in" alt="Se muestran las definiciones y las diferencias para estas entre la gestión de la calidad del suministro y la gestión logística")
       table
         caption Nota. <span style="font-weight: 400">Tomada de Mecalux (2019)</span>
         thead
@@ -78,7 +78,7 @@
           h5 Figura 2.
           span  La cadena logística y sus niveles estratégicos
       .col-lg-8.mx-auto.tarjeta.fondo-purpura-clarito.py-4(data-aos="zoom-in")
-        img.mb-4(src='@/assets/curso/tema1/f3.svg', alt='Imagen decorativa')
+        img.mb-4(src='@/assets/curso/tema1/f3.svg', alt='Imagen que muestra la cadena logística y sus diferentes niveles estratégicos que se describen posterior a la imagen.')
         figcaption Nota. <span style="font-weight: 400">Tomada de Castellanos (2015)</span>
     
     ul.lista-ul--color
@@ -185,7 +185,7 @@
     .row.justify-content-center.mb-5
       .col-lg-7.mx-auto(data-aos="fade-right")
         h4.text-center.mb-5 Responsabilidades de la empresa en función a la operación logística
-        img(src='@/assets/curso/tema1/f9.svg', alt='Imagen decorativa').mb-5
+        img(src='@/assets/curso/tema1/f9.svg', alt='imagen que describe las siete responsabilidades de una empresa en función de la operación logística y que de igual manera se escriben luego de dicha imagen de manera textual.').mb-5
     
     separador
     #t_1_6.titulo-segundo.color-acento-botones
@@ -199,7 +199,7 @@
           h5 Figura 3.
           span Esquema del proceso logístico
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/f10.svg', alt='Imagen decorativa').mb-4
+          img(src='@/assets/curso/tema1/f10.svg', alt='Imagen del flujo de información de TICs, donde viene los suministros el operador de transportes llega a la fábrica va de nuevo al operaror de transportes, cd y luego a los clientes.').mb-4
           figcaption Nota. <span style="font-weight: 400">Tomada de Universidad Tecnológica de Chile (2017)</span>
 
     separador
@@ -230,7 +230,7 @@
       .col-lg-5(data-aos="fade-left")
         .tarjeta.fondo-purpura-clarito.p-4
           h5 Distribución
-          p.mb-0 #[strong Distribución física:] es la entr  ega de los productos terminados a los diferentes clientes.
+          p.mb-0 #[strong Distribución física:] es la entrega de los productos terminados a los diferentes clientes.
     
     separador
     #t_1_8.titulo-segundo.color-acento-botones(data-aos="fade-right")

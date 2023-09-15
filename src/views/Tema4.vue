@@ -29,7 +29,7 @@
     
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-6.mx-auto
-        img(src='@/assets/curso/tema4/f1.svg', alt='Imagen decorativa')
+        img(src='@/assets/curso/tema4/f1.svg', alt='Imagen en forma de círculo que contiene los diversos elementos que componen el valor agregado y que son los siguientes:<br>Precio<br>Novedad<br>Calidad<br>Conveniencia<br>Marca/Status<br>Desempeño<br>Reducción de riesgo<br>Reducción de costes<br>Diseño<br>Customización')
 
     p Como toda relación, el valor no es resultado de una construcción unilateral, sino que se genera a partir de la interacción de sus participantes. En la medida que los clientes superan sus expectativas frente a la disponibilidad y el suministro de su proveedor, no solo se aferran a la marca y a la empresa repitiendo la adquisición de sus productos y servicios, sino que se convierten en referente para otros grupos de influencia y construyen la base fidelizada de clientes que proveen las utilidades a largo plazo de la empresa, los cuales, a su vez, traducen la relación de valor en la satisfacción con las cualidades –racionales y aspiracionales– del servicio obtenido, frente a los costos incurridos que en buena parte se representan en el precio de adquisición de los productos. Lo anterior es lo que se denomina valor agregado percibido por el cliente.
     p Los usuarios, consumidores y compradores finales son los últimos y principales destinatarios de esa superación de expectativas (formadas a partir de las experiencias de compra, de sus necesidades en comparación con la oferta de la competencia, o de los comentarios y opiniones externas), pero desde luego la ecuación del valor se propaga a través de los canales de toda la cadena de suministro, para cada momento decisivo en la relación cliente-proveedor.
@@ -46,7 +46,7 @@
       .col-lg-6(data-aos="fade-right")
         p Las implicaciones de la medición en el mejoramiento de procesos, están relacionadas con la posibilidad de adelantarse a la ocurrencia de las dificultades, identificar con mayor exactitud las oportunidades de mejoramiento con el fin de conocer oportunamente las áreas problemáticas y entender los bajos rendimientos. La mayor implicación podría decirse, está en la posibilidad del conocimiento profundo que se puede tener de los procesos y poder llegar así a las metas de la excelencia propuestas que como mínimo se debe escalar en tres momentos: análisis, mejora y medición o resultados.
       .col-lg-5.mx-auto(data-aos="fade-left")
-        img(src='@/assets/curso/tema4/f2.svg', alt='Imagen decorativa')
+        img(src='@/assets/curso/tema4/f2.svg', alt='Imagen que resume de manera gráfica el párrafo inmediatamente anterior.')
     
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-9.mb-5.mx-auto
@@ -201,7 +201,7 @@
     .titulo-sexto.color-acento-botones(data-aos="fade-right")
       h5 Tabla 3.
       span Indicador de compras y abastecimiento
-    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center.mb-5(data-aos="zoom-in")
+    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center.mb-5(data-aos="zoom-in" alt="Se muestran la comparación de los beneficios logísticos que se dan entre empresa y clienteel indicador el calculo y el objetivo de los indicadores de compras.")
       table
         caption Nota. <span style="font-weight: 400">Adaptada de Mora (2008)</span>
         thead
@@ -233,7 +233,7 @@
     .titulo-sexto.color-acento-botones(data-aos="fade-right")
       h5 Tabla 4.
       span Indicador de almacenamiento y bodegaje
-    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center.mb-5(data-aos="zoom-in")
+    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center.mb-5(data-aos="zoom-in" alt="Se muestran los indicadores, calculos y objetivos de los indicadores de almacenamiento")
       table
         caption Nota. <span style="font-weight: 400">Adaptada de Mora (2008)</span>
         thead
@@ -264,7 +264,7 @@
     .titulo-sexto.color-acento-botones(data-aos="fade-right")
       h5 Tabla 5.
       span Indicadores de producción e inventario
-    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center(data-aos="zoom-in")
+    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center(data-aos="zoom-in" alt="Se muestran los indicadores, calculos y objetivos de los indicadores de producción.")
       table
         caption Nota. <span style="font-weight: 400">Adaptada de Mora (2008)</span>
         thead
@@ -303,7 +303,7 @@
     .titulo-sexto.color-acento-botones(data-aos="fade-right")
       h5 Tabla 6.
       span Indicador de transporte y distribución
-    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center(data-aos="zoom-in")
+    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center(data-aos="zoom-in" alt="Se muestran los indicadores, calculos y objetivos de los indicadores de transporte y distribución.")
       table
         caption Nota. <span style="font-weight: 400">Adaptada de Mora (2008)</span>
         thead

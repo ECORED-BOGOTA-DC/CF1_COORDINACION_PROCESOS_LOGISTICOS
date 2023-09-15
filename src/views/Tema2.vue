@@ -65,7 +65,7 @@
           h5 Figura 5.
           span Tres grandes logísticas de la empresa
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/f4.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/tema2/f4.svg', alt='describe las tres grandes logísticas de la empresa que son:<br>Aprovisionamiento<br>Producción<br>Distribución')
 
     separador
     #t_2_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -91,7 +91,7 @@
           h5 Figura 6.
           span Divisiones de la logística
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/f5.svg', alt='Imagen decorativa').mb-4
+          img(src='@/assets/curso/tema2/f5.svg', alt='Imagen que muestra el ciclo de abastecimiento que es:<br>01. Determinar las necesidades<br>02. Determinar la fuente de adquisición<br>03. Seleccionar el proveedor<br>04. Gestión de pedido y orden de compra.<br>05. Supervisión del pedido<br>06. Entrada de mercancías y gestión de stock<br>07. Control de facturas<br>08. Gestión de pagos<br>').mb-4
           figcaption Nota. <span style="font-weight: 400">Tomada de Rojas, Guisao y Cano (2011)</span>
 
     .row.justify-content-center.mb-4
@@ -123,7 +123,7 @@
           h5 Figura 7.
           span Ciclo del abastecimiento
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/f6.svg', alt='Imagen decorativa').mb-4.p-4
+          img(src='@/assets/curso/tema2/f6.svg', alt='Imagen que muestra a través de un esquema las actividades de almacenamiento, esto es:<br>Los pedidos, inventarios y recepción tiene que ver con el almacenaje, la consolidación o desconsolidación y el cross docking todo esto finaliza con el despacho.').mb-4.p-4
           figcaption Nota. <span style="font-weight: 400">Tomada de Universidad Tecnológica de Chile (2017)</span>
     
     p.mb-5 En consecuencia, en toda actividad de aprovisionamiento se implican unas actividades y acciones a nivel operativo y administrativo a saber:
@@ -149,7 +149,7 @@
             h5 Figura 8.
             span Aspectos clave para la selección de proveedores
           figure
-            img(src='@/assets/curso/tema2/f7.svg', alt='Imagen decorativa').p-4
+            img(src='@/assets/curso/tema2/f7.svg', alt='Imagen que describe la gestión de coordinación de procesos, esta se describe luego de la imagen.').p-4
             figcaption Nota. <span style="font-weight: 400">Tomada de Castellanos (2015)</span>
       div(titulo="Compra")
         p Debe tener en cuenta la evaluación de las ofertas, los documentos de la compra, el envío la recepción de los pedidos, la calidad y el precio.
@@ -173,7 +173,7 @@
           h5 Figura 9.
           span Actividades de la gestión de almacenamiento
         figure
-          img(src='@/assets/curso/tema2/f8.svg', alt='Imagen decorativa').p-4
+          img(src='@/assets/curso/tema2/f8.svg', alt='Imagen que expone las actividades correspondientes a la logística inversa que se detallan posterior a la imagen.').p-4
           figcaption Nota. <span style="font-weight: 400">Tomada de Castellanos (2015)</span>
       div(titulo="Servicio")
         p.mb-0 De acuerdo con lo establecido en la negociación, se encuentra el mantenimiento y el servicio al cliente.
@@ -260,7 +260,7 @@
         .titulo-sexto.color-acento-botones(data-aos="fade-right")
           h5 Tabla 2.
           span Comparativos de beneficios e-logistics entre empresa y clientes
-        .tabla-a.color-acento-contenido.mb-5.tablaAzul(data-aos="zoom-in")
+        .tabla-a.color-acento-contenido.mb-5.tablaAzul(data-aos="zoom-in" alt="Se muestran la comparación de los beneficios logísticos que se dan entre empresa y cliente")
           table._4060
             caption Nota. <span style="font-weight: 400">Tomada de Riveros (2015)</span>
             thead
@@ -310,7 +310,7 @@
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.mx-auto.py-4
-        img(src='@/assets/curso/tema2/f12.svg', alt='Imagen decorativa').mb-4
+        img(src='@/assets/curso/tema2/f12.svg', alt='Esta imagen expone el proceso completo de CPFR y que se describe posterior a la imagen.').mb-4
         .col-lg-3.mx-auto
           a.anexo.mb-4(:href="obtenerLink('downloads/Proceso_CPFR.pdf')" target="_blank")
             .anexo__icono

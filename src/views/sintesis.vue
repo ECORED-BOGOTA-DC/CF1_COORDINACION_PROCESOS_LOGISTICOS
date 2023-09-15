@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="La síntesis hace el resumen de los temas abordados en el componente formativo que para este caso se ahondo en los temas como requerimientos de la cadena de suministros, implementación de mejora, integración y evaluación de la cadena de suministros entre otros.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

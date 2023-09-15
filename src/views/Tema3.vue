@@ -21,17 +21,17 @@
     .row.align-items-start.justify-content-between.mb-4
       .col-lg-4(data-aos="fade-right")
         .tarjeta.fondo-purpura-clarito.mb-4(style="width:100%;height:210px")
-          img(src='@/assets/curso/tema3/f2.svg', alt='Imagen decorativa', style="width:210px").mx-auto
+          img(src='@/assets/curso/tema3/f2.svg', alt='Entidades certificadora ISO', style="width:210px").mx-auto
         h4 ISO
         p.mb-0 International Organization for Standarization
       .col-lg-4(data-aos="flip-up")
         .tarjeta.fondo-purpura-clarito.mb-4(style="width:100%;height:210px")
-          img(src='@/assets/curso/tema3/f1.svg', alt='Imagen decorativa', style="width:210px").mx-auto
+          img(src='@/assets/curso/tema3/f1.svg', alt='Entidades certificadora CEN', style="width:210px").mx-auto
         h4 CEN
         p.mb-0 Comité Europeo de Normalización
       .col-lg-4(data-aos="fade-left")
         .tarjeta.fondo-purpura-clarito.mb-4(style="width:100%;height:210px")
-          img(src='@/assets/curso/tema3/f3.svg', alt='Imagen decorativa', style="width:210px").mx-auto
+          img(src='@/assets/curso/tema3/f3.svg', alt='Entidades certificadora Icontec', style="width:210px").mx-auto
         h4 Icontec
         p.mb-0 Instituto Colombiano de Normas Técnicas y Certificación
     
@@ -134,7 +134,7 @@
       h5 Figura 13.
       span  de trazabilidad
     figure(data-aos="zoom-in")
-      img(src='@/assets/curso/tema3/f9.svg', alt='Imagen decorativa').mb-4.p-4
+      img(src='@/assets/curso/tema3/f9.svg', alt='Imagen que muestra un proceso de trazabilidad que se describe luego de la imagen.').mb-4.p-4
       figcaption Nota. <span style="font-weight: 400">Tomada Mecalux (2019)</span>
 
 

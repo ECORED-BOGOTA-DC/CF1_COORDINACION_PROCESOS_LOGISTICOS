@@ -258,7 +258,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/121523_CF01_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -529,14 +529,37 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: [
-            'Wilson Andres Arenales Caceres',
-            'Gilberto Junior Rodriguez Rodriguez',
-            'Maria Carolina Tamayo',
-            'Nelson Vera Briceño',
-            'Ricardo Vasquez Arrovaye',
-            'Carlos Eduardo Garavito',
-          ],
+          nombre: 'Wilson Andres Arenales Caceres',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Gilberto Junior Rodriguez Rodriguez',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Maria Carolina Tamayo',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Nelson Vera Briceño',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Ricardo Vasquez Arrovaye',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito',
           cargo: 'Producción audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
