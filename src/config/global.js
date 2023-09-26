@@ -118,7 +118,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.6',
-            titulo: 'E-logisticis',
+            titulo: '<i>E-logisticis</i>',
             hash: 't_2_6',
           },
           {
@@ -185,7 +185,7 @@ export default {
           {
             icono: 'far fa-play-circle',
             numero: '4.1',
-            titulo: 'Benchmarking qué es, cómo funciona, utilidad',
+            titulo: '<i>Benchmarking</i> qué es, cómo funciona, utilidad',
             hash: 't_4_1',
           },
           {
@@ -432,12 +432,12 @@ export default {
         'Proceso de planificar, ejecutar y controlar de manera efectiva y eficiente el flujo de materias primas, inventario en curso y producto terminado y el flujo de información desde el punto de origen hasta el punto de entrega y consumo.',
     },
     {
-      termino: 'Packing',
+      termino: '<i>Packing</i>',
       significado:
         'Proceso de alistamiento y preparación de la carga referente a empaque y embalaje necesario para la expedición.',
     },
     {
-      termino: 'Picking',
+      termino: '<i>Picking</i>',
       significado:
         'Proceso de recogida de material extrayendo unidades o conjuntos empaquetados de una unidad de empaquetado superior que contiene más unidades que las extraídas.',
     },

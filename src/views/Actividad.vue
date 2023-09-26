@@ -12,7 +12,7 @@
       .col-12.col-md-8.col-lg-9(data-aos="fade-left")
         .titulo-segundo
           h3 Planear cadena de suministros
-        p.mb-4 La presente tiene como objetivo principal evaluar los conocimientos del aprendiz mediante un test compuesto por una serie de preguntas de opción multiple y única respuesta.
+        p.mb-4 La presente tiene como objetivo principal evaluar los conocimientos del aprendiz mediante un test compuesto por una serie de preguntas de opción múltiple y única respuesta.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

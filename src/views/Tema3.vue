@@ -23,7 +23,7 @@
         .tarjeta.fondo-purpura-clarito.mb-4(style="width:100%;height:210px")
           img(src='@/assets/curso/tema3/f2.svg', alt='Entidades certificadora ISO', style="width:210px").mx-auto
         h4 ISO
-        p.mb-0 International Organization for Standarization
+        p.mb-0 <i>International Organization for Standarization</i>
       .col-lg-4(data-aos="flip-up")
         .tarjeta.fondo-purpura-clarito.mb-4(style="width:100%;height:210px")
           img(src='@/assets/curso/tema3/f1.svg', alt='Entidades certificadora CEN', style="width:210px").mx-auto
@@ -89,7 +89,7 @@
       .col-lg-4.mx-auto(data-aos="zoom-in")
         img(src='@/assets/curso/tema3/f4.svg', alt='Imagen decorativa')
     
-    p.mb-5(data-aos="fade-right") El primer paso hacia una economía más verde es el reconocimiento del impacto que tienen las actividades empresariales, siendo esto simplificado, ya que hoy en día existen metodologías y calculadoras ambientales estandarizadas que permiten tener aproximaciones iniciales. Se tiene un primer acercamiento sobre cuánto y dónde se contamina, por lo que se pueden identificar las áreas críticas y explorar posibles áreas de oportunidad y acciones puntuales. Las empresas también deben tomar una postura y decidir qué tanto están dispuestas a modificar sus actividades y si es que están decididas a incluir al impacto ambiental en su proceso de planeación operativa y estratégica, lo que probablemente impacte en el negocio de la empresa. Cada uno de los siguientes conceptos es imprescindibles para la empresa actual que debe tenerlos en cuenta:
+    p.mb-5(data-aos="fade-right") El primer paso hacia una economía más verde es el reconocimiento del impacto que tienen las actividades empresariales, siendo esto simplificado, ya que hoy en día existen metodologías y calculadoras ambientales estandarizadas que permiten tener aproximaciones iniciales. Se tiene un primer acercamiento sobre cuánto y dónde se contamina, por lo que se pueden identificar las áreas críticas y explorar posibles áreas de oportunidad y acciones puntuales. Las empresas también deben tomar una postura y decidir qué tanto están dispuestas a modificar sus actividades y si es que están decididas a incluir al impacto ambiental en su proceso de planeación operativa y estratégica, lo que probablemente impacte en el negocio de la empresa. Cada uno de los siguientes conceptos son imprescindibles para la empresa actual que debe tenerlos en cuenta:
     
     AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta fondo-casi-blanco" data-aos="zoom-in")
       .row(titulo="Logística verde")
@@ -120,14 +120,14 @@
       img(src='@/assets/curso/tema3/f7.svg', alt='Imagen decorativa', style="width:60px; border-bottom:none;")
       .tarjeta.transparent1
         .p-4
-          .h4 Rastreo o trazabilidad hacia atrás (tracing)
+          .h4 Rastreo o trazabilidad hacia atrás (#[i tracing])
           p El rastreo sirve para identificar el origen de un lote o unidad de carga concreta. Permite explorar las etapas que ha seguido el producto desde su transformación hasta llegar a la entrega final, por lo que se incluye la identificación de las materias primas utilizadas y las operaciones de producción llevadas a cabo.
 
     .tarjeta-avatar-b.mb-5(data-aos="fade-right")
       img(src='@/assets/curso/tema3/f8.svg', alt='Imagen decorativa', style="width:60px")
       .tarjeta.transparent2
         .p-4
-          .h4 Seguimiento o trazabilidad hacia delante (tracking)
+          .h4 Seguimiento o trazabilidad hacia delante (#[i tracking])
           p Hace referencia a la posibilidad de seguir la ruta que va a recorrer una unidad de carga o lote. De esta forma, se puede predecir qué camino va a tomar y realizar una estimación de entrega. Es la trazabilidad más usada para informar de los pasos que va siguiendo el producto hasta el destino final en las compras #[em online].
     
     .titulo-sexto.color-acento-botones.mb-4(data-aos="fade-right")

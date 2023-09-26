@@ -17,7 +17,7 @@
 
     separador
     #t_2_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 2.1. Cadena de valor
+      h2 2.1 Cadena de valor
 
     p(data-aos="fade-right") Este término acuñado por Porter (1991) identifica, entonces, “las principales actividades que crean un valor para los clientes y las actividades de apoyo relacionadas”. La cadena permite también identificar los distintos costos en los que incurre una organización a través de las distintas actividades que conforman su proceso productivo, por lo que constituye un elemento indispensable para determinar la estructura de costos de una compañía. 
     
@@ -48,7 +48,7 @@
 
     separador
     #t_2_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 2.2. Redes logísticas
+      h2 2.2 Redes logísticas
     
     p.mb-5(data-aos="fade-right") La cadena logística es la vía imaginaria mediante la cual se realiza el movimiento de mercancías desde su origen hasta el consumidor final, esta movilización se lleva a cabo a través del servicio, la manipulación, transformación, desplazamiento y almacenamiento que sufren los productos desde que son materia prima hasta su elaboración como mercancía final. Estas cadenas se diseñan para que puedan cubrir los diferentes modos de transporte a saber: marítimo, terrestre (férreo y carretera), aéreo, y en su construcción participan diferentes actores.
     
@@ -69,7 +69,7 @@
 
     separador
     #t_2_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 2.3.	Clasificación de macroprocesos como actores de la cadena
+      h2 2.3	Clasificación de macroprocesos como actores de la cadena
     
     p.mb-5(data-aos="fade-right") Cumplirle al cliente tiene una serie de novedades que no se pueden enumerar en algunos casos, pues “son muchos los puntos críticos que se manejan durante la gestión de la cadena, y para su administración y cumplimiento debemos contar con elementos de apoyo imprescindibles para gestionarla correctamente” (Rojas, Guisao y Cano, 2001). Al gestionar estas logísticas se logra identificar y establecer la movilización entre las diferentes unidades, a diseñar diferentes pasos o caminos para lograr su fin principal: cumplirle al cliente.    
 
@@ -101,7 +101,7 @@
     
     separador
     #t_2_4.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 2.4.	Clasificación de los subprocesos de la cadena de abastecimiento
+      h2 2.4	Clasificación de los subprocesos de la cadena de abastecimiento
 
     p.mb-5(data-aos="fade-right") Es fundamental contar con el apoyo de los demás integrantes de la cadena de abastecimiento, los cuales se relacionan a continuación.
     .h4.mb-5 <i class="fas fa-crosshairs fa-spin" style="color: #57DBD8; margin-left: 8px; font-size: larger" data-aos="fade-right"></i>  Logística de aprovisionamiento
@@ -210,7 +210,7 @@
 
     separador
     #t_2_5.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 2.5.	Logística inversa o de reversa
+      h2 2.5	Logística inversa o de reversa
 
     p.mb-5(data-aos="fade-right") La definición dada por el Consejo Ejecutivo de Logística Inversa de Estados Unidos, según la cual la retrologística es:
     
@@ -243,10 +243,10 @@
     
     separador
     #t_2_6.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 2.6. E-logisticis
+      h2 2.6 <i>E-logisticis</i>
 
     p(data-aos="fade-right") El #[em e-commerce] o comercio electrónico abarca los términos de compra, venta, distribución y desarrollo de todas las herramientas, así como el aprovisionamiento de información al consumidor acerca de un producto o servicio a través de internet. 
-    p.mb-5(data-aos="fade-right") Dentro de este servicio, se encuentra la logística del comercio electrónico o e-logistics, que ha revolucionado el proceso de consumo, puesto que el consumidor está a un clic de distancia de acceder a diversidad de productos y compañías. Este escenario tiene su foco puesto en la logística, con lo cual este aspecto se vuelve un tema central. El tiempo y forma en que cada producto llegará a su comprador, construirá la experiencia de compra de ese consumidor y obliga a las empresas a revisar la cadena de abastecimiento y a replantear su estructura logística para satisfacer las necesidades.
+    p.mb-5(data-aos="fade-right") Dentro de este servicio, se encuentra la logística del comercio electrónico o <i>e-logistics</i>, que ha revolucionado el proceso de consumo, puesto que el consumidor está a un clic de distancia de acceder a diversidad de productos y compañías. Este escenario tiene su foco puesto en la logística, con lo cual este aspecto se vuelve un tema central. El tiempo y forma en que cada producto llegará a su comprador, construirá la experiencia de compra de ese consumidor y obliga a las empresas a revisar la cadena de abastecimiento y a replantear su estructura logística para satisfacer las necesidades.
     
     .row.justify-content-center.mb-5
       .col-lg-10.mx-auto(data-aos="flip-up")
@@ -292,14 +292,14 @@
     
     separador
     #t_2_7.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 2.7.	CPFR o la planificación, pronosticación y reabastecimiento colaborativos
+      h2 2.7	CPFR o la planificación, pronosticación y reabastecimiento colaborativos
 
     .row.justify-content-center.mb-5
       .col-lg-10.mx-auto(data-aos="flip-up")
         .bloque-texto-b.fondo-purpura-medio.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left(style="font-size: 2em")
-            p.mb-0 El CPFR, acrónimo de Planificación Colaborativa, Pronóstico y Reabastecimiento, es un proceso de colaboración por el que los socios comerciales de la cadena de suministro pueden planificar conjuntamente las actividades clave de la cadena de suministro”, se debe tener en cuenta desde la producción y el suministro de materias primas a la producción hasta la entrega de productos finales a los clientes finales. La colaboración abarca la planificación empresarial, la previsión de ventas, y todas las operaciones necesarias para reponer las materias primas y productos terminados.
+            p.mb-0 “El CPFR, acrónimo de Planificación Colaborativa, Pronóstico y Reabastecimiento, es un proceso de colaboración por el que los socios comerciales de la cadena de suministro pueden planificar conjuntamente las actividades clave de la cadena de suministro”, se debe tener en cuenta desde la producción y el suministro de materias primas a la producción hasta la entrega de productos finales a los clientes finales. La colaboración abarca la planificación empresarial, la previsión de ventas, y todas las operaciones necesarias para reponer las materias primas y productos terminados.
             i.fas.fa-quote-right(style="font-size: 2em")
           .bloque-texto-d__autor
             .h5.text-end.mb-0 Según Granillo, Hernández y Santana (2013)

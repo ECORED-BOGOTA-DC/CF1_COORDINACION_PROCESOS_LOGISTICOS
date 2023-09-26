@@ -34,7 +34,7 @@
     p(data-aos="fade-right") Como toda relación, el valor no es resultado de una construcción unilateral, sino que se genera a partir de la interacción de sus participantes. En la medida que los clientes superan sus expectativas frente a la disponibilidad y el suministro de su proveedor, no solo se aferran a la marca y a la empresa repitiendo la adquisición de sus productos y servicios, sino que se convierten en referente para otros grupos de influencia y construyen la base fidelizada de clientes que proveen las utilidades a largo plazo de la empresa, los cuales, a su vez, traducen la relación de valor en la satisfacción con las cualidades –racionales y aspiracionales– del servicio obtenido, frente a los costos incurridos que en buena parte se representan en el precio de adquisición de los productos. Lo anterior es lo que se denomina valor agregado percibido por el cliente.
     p(data-aos="fade-right") Los usuarios, consumidores y compradores finales son los últimos y principales destinatarios de esa superación de expectativas (formadas a partir de las experiencias de compra, de sus necesidades en comparación con la oferta de la competencia, o de los comentarios y opiniones externas), pero desde luego la ecuación del valor se propaga a través de los canales de toda la cadena de suministro, para cada momento decisivo en la relación cliente-proveedor.
     p(data-aos="fade-right") La globalización de los negocios y la necesidad de llegar con más rapidez y eficiencia a los consumidores son situaciones que conducen a las empresas a buscar diversas estrategias para responder a las complejidades cada vez mayores de los mercados.
-    p(data-aos="fade-right") Retomando el concepto de la Revista de Logística Legis (2016) se puede decir que la evolución del concepto de logística al de Supply Chain Management (gerencia de la cadena de abastecimiento) y la necesidad de sobrevivir en un mercado más competido, se convierten en nuevos retos para quienes se desempeñan en el campo de la logística. La logística está para crear valor a los clientes, proveedores y accionistas de la compañía. El valor en logística está expresado en términos de tiempo y lugar. Los productos y servicios no tienen valor, a menos que estén en posesión de los clientes cuándo (tiempo) y dónde (lugar) ellos deseen consumirlos.
+    p(data-aos="fade-right") Retomando el concepto de la Revista de Logística Legis (2016) se puede decir que la evolución del concepto de logística al de #[i Supply Chain Management] (gerencia de la cadena de abastecimiento) y la necesidad de sobrevivir en un mercado más competido, se convierten en nuevos retos para quienes se desempeñan en el campo de la logística. La logística está para crear valor a los clientes, proveedores y accionistas de la compañía. El valor en logística está expresado en términos de tiempo y lugar. Los productos y servicios no tienen valor, a menos que estén en posesión de los clientes cuándo (tiempo) y dónde (lugar) ellos deseen consumirlos.
     
     separador
     #t_4_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -251,7 +251,7 @@
             td Costo de operación bodega/Total unidades despachadas
             td Controlar los costos unitarios por manejo de las unidades de carga de la bodega.
           tr(data-aos="fade-right")
-            td Nivel de cumplimento en despacho
+            td Nivel de cumplimiento en despacho
             td Número de despachos cumplidos a tiempo/Número total de despachos requeridos
             td Controlar la eficacia de los despachos efectuados por el centro de distribución.
 
@@ -359,13 +359,13 @@
       .tarjeta.transparent1
         .p-4
           .h4 ERP
-          p.mb-0 (Enterprise Resource Management o Planificación de Recursos de la Empresa), programas de software concebidos para gestionar de forma integrada las funciones de la empresa, por lo cual, facilita e integra información entre las funciones de manufactura, logística, finanzas y recursos humanos.
+          p.mb-0 (Enterprise Resource Management o Planificación de Recursos de la Empresa), programas de #[i software] concebidos para gestionar de forma integrada las funciones de la empresa, por lo cual, facilita e integra información entre las funciones de manufactura, logística, finanzas y recursos humanos.
     .tarjeta-avatar-b(data-aos="fade-right")
       img(src='@/assets/curso/tema4/f13.svg', alt='Imagen decorativa', style="width:60px; border-bottom:none;")
       .tarjeta.transparent1
         .p-4
           .h4 EDI
-          p.mb-0 (Electronic Data Interchange o Intercambio Electrónico de Datos), permite intercambiar información entre empresas, mediante un formato específico común. Esto hace innecesaria la intervención humana, ya que las operaciones se llevan a cabo íntegramente a través de ordenadores. Con internet, el EDI gana de nuevo protagonismo, en el escenario del B2B (Business to Business) o negocios electrónicos entre empresas.
+          p.mb-0 (Electronic Data Interchange o Intercambio Electrónico de Datos), permite intercambiar información entre empresas, mediante un formato específico común. Esto hace innecesaria la intervención humana, ya que las operaciones se llevan a cabo íntegramente a través de ordenadores. Con internet, el EDI gana de nuevo protagonismo, en el escenario del B2B (#[i Business to Business]) o negocios electrónicos entre empresas.
     .tarjeta-avatar-b(data-aos="fade-right")
       img(src='@/assets/curso/tema4/f13.svg', alt='Imagen decorativa', style="width:60px")
       .tarjeta.transparent2

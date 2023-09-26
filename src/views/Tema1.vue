@@ -13,7 +13,7 @@
           img(src='@/assets/curso/tema1/f1.svg', alt='Imagen decorativa' data-aos="fade-right")
         .col-lg-8(data-aos="fade-left")
           .bloque-texto-a__texto.p-4
-            p.mb-0 La cadena de suministro o supply chain es el proceso que se genera desde que el cliente realiza un pedido hasta que el producto o servicio ha sido entregado y cobrado. Por tanto, la supply chain comprende la planificación, ejecución y control de todas las actividades relacionadas con el flujo de materiales y de información, desde la compra de materias primas hasta la entrega final del producto al cliente, pasando por su transformación intermedia (Castellanos, 2015).
+            p.mb-0 La cadena de suministro o <i>supply chain</i> es el proceso que se genera desde que el cliente realiza un pedido hasta que el producto o servicio ha sido entregado y cobrado. Por tanto, la <i>supply chain</i> comprende la planificación, ejecución y control de todas las actividades relacionadas con el flujo de materiales y de información, desde la compra de materias primas hasta la entrega final del producto al cliente, pasando por su transformación intermedia (Castellanos, 2015).
     
     p.mb-5(data-aos="fade-right") En consecuencia, se puede definir la cadena de suministro como el conjunto de pasos y redes que se tejen desde el origen del producto hasta el cliente final. Esta cadena está compuesta por distintos proveedores y empresas que van abasteciendo en cada uno de los siguientes eslabones.
     
@@ -63,7 +63,7 @@
             td Principalmente, almacenamiento, transporte y gestión del #[em stock].
     
     #t_1_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 1.1. Planeación estratégica de logística
+      h2 1.1 Planeación estratégica de logística
       
     p.mb-5(data-aos="fade-right") Al igual que cualquier actividad empresarial, el objetivo clave de la logística es lograr una tasa de retorno de la inversión más elevada y mejorar la rentabilidad, para conseguirlo, se debe efectuar una planeación dentro de la empresa, la cual puede cubrir los siguientes niveles: #[strong planeación estratégica; planeación táctica; planeación operativa.]
     
@@ -92,7 +92,7 @@
         i.fas.fa-check-circle(style="color: #FE7062;")
         p.mb-0 #[strong Planeación operacional:] se establece la demanda y los procesos productivos para la distribución del producto.
     
-    p.mb-5(data-aos="fade-right") Fortaleciendo este proceso de formación, es necesario leer el siguiente documento que relaciona los conceptos de la administración estratégica enfocado a la planeación.
+    p.mb-5(data-aos="fade-right") Fortaleciendo este proceso de formación, es necesario leer el siguiente documento que relaciona los conceptos de la administración estratégica enfocada a la planeación.
     
     .row.g1.tarjeta.align-items-center.justify-content.between.p-4(data-aos="flip-up")
       .col-lg-2.col-3
@@ -101,7 +101,6 @@
         .row.justify-content-between.align-items-center
           .col.mb-3.mb-sm-0
             p.texto-blanco #[strong Libro:] Conceptos de administración estratégica<br>#[strong Autor:] David (2013)<br>#[strong Capítulo:] 1 al 6
-            p.texto-blanco <span style="font-size:.8rem">Estimado aprendiz, debe recordar que para ingresar a las bases de datos del Sena se ingresa con el número del documento de identidad sin puntos en el campo de usuario y contraseña.</span>
           .col-sm-auto
             a.boton.color-acento-botones(href="https://laurabatres.files.wordpress.com/2018/06/conceptos-de-administracion-estrategica-14edi-david.pdf" target="_blank")
               span Ir al sitio
@@ -109,7 +108,7 @@
     
     separador
     #t_1_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 1.2. Conceptos generales
+      h2 1.2 Conceptos generales
     
     p.mb-5(data-aos="fade-right") No se tiene un concepto general de la logística y cadena de suministros debido a que la literatura actual es extensa en relación con las definiciones sobre este término, algunas muy simples y otras más complejas que apuntan a un concepto integrador, sistémico y racionalizador que, fundamentalmente, se orientan a la satisfacción del cliente con los costos mínimos, con la calidad requerida, en el tiempo convenido y en la cantidad y lugar especificados por este. A continuación, se relacionan varios autores con el fin de ilustrar la gran variedad literaria con la que se cuenta:
     
@@ -118,11 +117,11 @@
         h4 Ballou (2004) en su extensa obra sobre la logística, la define así
         p.mb-0 Las actividades que se dirigen para conformar la logística de los negocios (proceso de la cadena de suministros) varían de una empresa a otra, dependiendo de la estructura organizacional de cada una, de las honestas diferencias de opinión, de la administración respecto de lo que constituye la cadena de suministros para su negocio y de la importancia de las actividades individuales para sus operaciones (s.p.).
       .tarjeta.fondo-azul-clarito.p-5(titulo="Según el CSCMP")
-        h4 La definición promulgada por el Council of Supply Chain Management Professionals CSCMP (s.f.) (Consejo de Profesionales de la Gestión de la Cadena de Suministro CSCMP, por sus siglas en inglés), que desde 1963 ha brindado oportunidades de desarrollo profesional y educación a la comunidad de gestión de la cadena de suministro y logística, manifiesta:
+        h4 La definición promulgada por el <i>Council of supply chain</i> Management Professionals CSCMP (s.f.) (Consejo de Profesionales de la Gestión de la Cadena de Suministro CSCMP, por sus siglas en inglés), que desde 1963 ha brindado oportunidades de desarrollo profesional y educación a la comunidad de gestión de la cadena de suministro y logística, manifiesta:
         p.mb-0 La logística es el proceso de planear, implementar y controlar el flujo y almacenamiento eficiente y a un costo efectivo de las materias primas, inventarios en proceso, de producto terminado e información relacionada, desde los puntos de origen hasta los de consumo; con el propósito de satisfacer las necesidades de los clientes.
       .tarjeta.fondo-azul-clarito.p-5(titulo="Según Mora (2010)")
         h4 Según Mora (2010):
-        p.mb-0 La logística es un conjunto de actividades que son repetidas muchas veces a lo largo de la cadena de abastecimiento, desde que las materias primas son convertidas en productos terminados y se agrega valor para los consumidores. Debido a que las fuentes de materias primas, fábricas y puntos de venta no están típicamente localizadas en los mismos lugares y el canal representa una secuencia de pasos de manufactura, las actividades logísticas ocurren muchas veces antes que un producto llegue al mercado. Aún luego, las acciones logísticas se repiten también cuando los bienes son usados y reciclados en el canal logístico”.
+        p.mb-0 “La logística es un conjunto de actividades que son repetidas muchas veces a lo largo de la cadena de abastecimiento, desde que las materias primas son convertidas en productos terminados y se agrega valor para los consumidores. Debido a que las fuentes de materias primas, fábricas y puntos de venta no están típicamente localizadas en los mismos lugares y el canal representa una secuencia de pasos de manufactura, las actividades logísticas ocurren muchas veces antes que un producto llegue al mercado. Aún luego, las acciones logísticas se repiten también cuando los bienes son usados y reciclados en el canal logístico”.
     
     .row.justify-content-center.mb-4
       .col-lg-10.mx-auto(data-aos="flip-up")
@@ -131,7 +130,7 @@
     
     separador
     #t_1_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 1.3. Importancia de la cadena de suministros
+      h2 1.3 Importancia de la cadena de suministros
 
     p(data-aos="fade-right") La importancia de la logística radica en la necesidad de mejorar el servicio a un cliente, optimizando la fase de mercadeo y transporte al menor costo posible:
     p.mb-5(data-aos="fade-right") A continuación, se relacionan algunas actividades que pueden derivarse de la gerencia logística:
@@ -172,13 +171,13 @@
     
     separador
     #t_1_4.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 1.4.	Funciones de la cadena de suministros
+      h2 1.4	Funciones de la cadena de suministros
 
     p(data-aos="fade-right") Las funciones de la logística se basan, principalmente, en la administración de los flujos físicos (materias primas, productos terminados, etc.), teniendo en cuenta los recursos (humanos, consumibles, etc.), los bienes necesarios (almacenes, bodegas, herramientas, sistemas informáticos, camiones, etc.), y los servicios (transporte o almacenes subcontratados).
     
     separador
     #t_1_5.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 1.5.	Responsabilidades en la cadena de suministros
+      h2 1.5	Responsabilidades en la cadena de suministros
 
     p.mb-5(data-aos="fade-right") Como se anotó anteriormente, la necesidad de las organizaciones de ser eficientes en la cadena de abastecimiento y competitivas en el mercado actual, ha ayudado a desarrollar el esquema logístico a nivel interno y con un acelerado crecimiento a nivel mundial. Entre las responsabilidades más importantes que motivan a las compañías a tecnificarse y a desarrollar intensamente su cadena logística se destacan:
     
@@ -189,7 +188,7 @@
     
     separador
     #t_1_6.titulo-segundo.color-acento-botones
-      h2 1.6.	Clasificación de macroprocesos
+      h2 1.6	Clasificación de macroprocesos
     
     p.mb-5(data-aos="fade-right") La logística de una empresa la componen las funciones y procesos de apoyo, por lo tanto, puede entenderse como el conjunto de tres procesos empresariales que no hacen parte constitutiva de la empresa, pero que sí aseguran la consecución del objetivo fundamental de la misma, estos procesos son esquematizados en la siguiente figura:
 
@@ -204,7 +203,7 @@
 
     separador
     #t_1_7.titulo-segundo.color-acento-botones
-      h2 1.7.	Clasificación de los subprocesos de la cadena de abastecimiento
+      h2 1.7	Clasificación de los subprocesos de la cadena de abastecimiento
 
     p(data-aos="fade-right") Los elementos que conforman la logística a saber son tres (3) como se presentan a continuación:
     
@@ -234,7 +233,7 @@
     
     separador
     #t_1_8.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 1.8.	Modelos de gestión de la cadena de abastecimiento
+      h2 1.8	Modelos de gestión de la cadena de abastecimiento
 
     p.mb-5(data-aos="fade-right") La importancia de tecnólogos o profesionales en el sector es cada vez mejor vista y más importante tal como lo dice Mora (2010):
     
