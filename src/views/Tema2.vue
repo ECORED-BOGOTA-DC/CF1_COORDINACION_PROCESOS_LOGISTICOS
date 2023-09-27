@@ -81,7 +81,7 @@
           .col-lg-7
             h3 Actores de la cadena
             p Mediante este recurso infográfico el aprendiz podrá conocer cada uno de los macroprocesos como actores de la cadena.
-            a.boton.color-acento-botones(:href="obtenerLink('/downloads/Actores_de_la_cadena.pdf')" target="_blank" type="application/pdf")
+            a.boton.color-acento-botones(:href="obtenerLink('/downloads/actores_de_la_cadena.pdf')" target="_blank" type="application/pdf")
               span Descargar
               i.fas.fa-file-download
     
